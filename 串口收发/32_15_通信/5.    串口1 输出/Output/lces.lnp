@@ -1,0 +1,8 @@
+"..\Output\STARTUP.obj",
+"..\Output\main.obj",
+"..\Output\key.obj",
+"..\Output\delay.obj",
+"..\Output\led.obj",
+"..\Output\uart.obj" 
+TO "..\Output\lces" 
+PRINT("..\Temp\lces.m51") RAMSIZE(256) 

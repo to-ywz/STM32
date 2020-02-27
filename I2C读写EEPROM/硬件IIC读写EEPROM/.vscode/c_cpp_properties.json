@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\秦殇\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\秦殇\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\**",
+                "${workspaceFolder}/12-USART—串口通信/USART2—USART2接发/Libraries/CMSIS/Device/ST/STM32F4xx/Include",
+                "C:\\Users\\秦殇\\Desktop\\STM32（学）\\新建标准模板\\5-GPIO输出—使用固件库点亮LED灯\\Libraries\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
+                "C:\\Users\\秦殇\\Desktop\\STM32（学）\\新建标准模板\\5-GPIO输出—使用固件库点亮LED灯\\Libraries\\CMSIS\\Include",
+                "C:\\Users\\秦殇\\Desktop\\IIC读写EEPROM\\User\\usart",
+                "C:\\Users\\秦殇\\Desktop\\IIC读写EEPROM\\User\\led",
+                "C:\\Users\\秦殇\\Desktop\\I2C读写EEPROM\\硬件IIC读写EEPROM\\User\\usart"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "D:\\CodeBlocks\\MinGW\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

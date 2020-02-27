@@ -1,0 +1,6 @@
+-c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 --apcs=interwork --split_sections -I ..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include -I ..\..\Libraries\CMSIS\Include -I ..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc -I ..\..\User -I ..\..\User\usart
+-I.\RTE\___________
+-ID:\Keil5\keil5forstm32\PACK\Keil\STM32F4xx_DFP\2.5.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+-ID:\Keil5\keil5forstm32\ARM\CMSIS\Include
+-D__UVISION_VERSION="525" -DSTM32F407xx -DUSE_STDPERIPH_DRIVER -DSTM32F40_41xxx
+-o ..\..\output\main.o --omf_browse ..\..\output\main.crf --depend ..\..\output\main.d "..\..\User\main.c"

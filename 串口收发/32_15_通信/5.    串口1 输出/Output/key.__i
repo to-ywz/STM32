@@ -1,0 +1,1 @@
+"..\User\key\key.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(..\User;..\Library;..\User\delay;..\User\key;..\User\led;..\User\uart) DEBUG OBJECTEXTEND PRINT(..\Temp\key.lst) OBJECT(..\Output\key.obj)
